@@ -24,7 +24,7 @@ I'm Muhammad Habibur Rahman or Habib, I'm currently a 2nd year student studying 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ---
-## Design: 
+## 🖼️ Design: 
  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ---
 **Along with these technologies, I like self-hosting these:**
