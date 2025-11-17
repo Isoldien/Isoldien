@@ -1,9 +1,10 @@
 
-# Hello 👋 
+# Hi👋 
 I'm Muhammad Habibur Rahman or Habib, I'm currently a 2nd year student studying BSc Computer Science
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=ab66ad)
 
+![](https://64.media.tumblr.com/9c5677abf23de940488add2f4f9e0062/tumblr_otcefeOP751uce9bao1_540.gif)
 
 # What I'm Learning Currently Learning
 - **CS2DSA** - Data Structures and Algorithms
