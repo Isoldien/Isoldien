@@ -6,7 +6,7 @@ I'm Muhammad Habibur Rahman or Habib, I'm currently a 2nd year student studying 
 
 ![](https://64.media.tumblr.com/9c5677abf23de940488add2f4f9e0062/tumblr_otcefeOP751uce9bao1_540.gif)
 
-# What I'm Learning Currently
+# What I'm Learning Currently:
 - **CS2DSA** - Data Structures and Algorithms
 - **CS2AI** - Introduction to Machine Learing
 - **CS2TP** - Team Project
