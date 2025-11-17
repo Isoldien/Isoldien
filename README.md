@@ -39,7 +39,7 @@ I'm Muhammad Habibur Rahman or Habib, I'm currently a 2nd year student studying 
 ![Vaultwarden](https://img.shields.io/badge/vaultwarden-000000?style=for-the-badge&logo=vaultwarden&logoColor=white)
 ![Paperless-NGX](https://img.shields.io/badge/paperlessngx-17541F?style=for-the-badge&logo=paperlessngx&logoColor=white)
 
-More information can be found here -> [![SolLab](https://img.shields.io/badge/github-795f8a?style=for-the-badge&logo=github&logoColor=abbf47)](https://github.com/Isoldien/SolLab)
+More information can be found here -> [![SolLab](https://img.shields.io/badge/materialformkdocs-795f8a?style=for-the-badge&logo=materialformkdocs&logoColor=abbf47)]
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Isoldien&theme=bear&hide_border=true&include_all_commits=true&count_private=true)<br/>
