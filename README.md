@@ -9,7 +9,7 @@ I'm Muhammad Habibur Rahman or Habib, I'm currently a 2nd year student studying 
 # What I'm Currently Learing (In University):
 - **CS2DSA** - Data Structures and Algorithms
 - **CS2AI** - Introduction to Machine Learing
-- **CS2TP** - Team Project
+- **[CS2TP](https://github.com/Isoldien/group53)** - Team Project 
 - **CS2SE** - Introduction to Software Engineering
 
 ## Outside of University, I'm currently learning:
